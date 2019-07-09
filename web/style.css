@@ -19,6 +19,7 @@ h1 {
     margin-bottom: 0px;
     line-height: 60px;
     text-transform: lowercase;
+    text-shadow: 4px 4px #4a3e7d;
 }
 
 h2 {
@@ -93,6 +94,7 @@ a:active {
     padding-left: 10px;
     margin-left: auto;
     margin-right: auto;
+    text-shadow: 1px 1px #4a3e7d;
 }
 
 .header {
