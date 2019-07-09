@@ -70,16 +70,23 @@ ul{
     width: calc(100vw -10px);
     height: 200px;
     padding-left: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .header {
+    margin-left: auto;
+    margin-right: auto;
     width: 760px;
 }
 
 .page {
+    margin-left: auto;
+    margin-right: auto;
     width: 760px;
     border-right: 1px solid #cccccc;
-    height: calc(100vh - 200px);
+    border-left: 1px solid #cccccc;
+    min-height: calc(100vh - 200px);
 }
 
 .logo {
