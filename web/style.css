@@ -58,6 +58,26 @@ ul{
 	list-style-type: square;
 }
 
+a:link {
+    color: #7e6acf;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #7e6acf;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #e866f4;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #52e7bb;
+    text-decoration: underline;
+}
+
 .tbllbl {
     font-weight: bold;
     color: #666688;
@@ -66,7 +86,7 @@ ul{
 #bg{
     background-color: #4a3e7d;
     background-image: url(img/bg.png);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     width: calc(100vw -10px);
     height: 200px;
     padding-left: 10px;
