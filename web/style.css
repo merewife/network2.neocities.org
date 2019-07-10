@@ -27,6 +27,11 @@ h2 {
     margin-bottom: 2px;
 }
 
+h3 {
+    margin-top: 12px;
+    margin-bottom: 6px;
+}
+
 p {
     line-height: 1.4;
 }
